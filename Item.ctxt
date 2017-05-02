@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ class\ creates\ the\ items\ for\ the\ games\ that\ is\ later\ referenced\ in\ other\ classes\r\n\ \r\n\ @param\ (Description,\ weight)\r\n\r\n\ @author\ Nils\ Erickson\r\n\ @version\ 4.25.2017\r\n
+comment1.params=description\ weight
+comment1.target=Item(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ a\ new\ item\ with\ the\ given\ description\ and\ weight.\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+numComments=4
